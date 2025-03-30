@@ -17,12 +17,12 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/0recklez/password_generate.git",
-    "accountId": "bdc900d5-ba8a-4c64-ac6a-260f045a4541"
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/0recklez/password_generate.git&quot;,
+    &quot;accountId&quot;: &quot;bdc900d5-ba8a-4c64-ac6a-260f045a4541&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
