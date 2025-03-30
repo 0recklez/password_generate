@@ -34,7 +34,7 @@ def get_chars():
         chars += PUNCTUATION
     if not chars:
         print('please select at least one symbol type.')
-        get_chars()
+        return get_chars()
 
     if ask_yes_no('remove ambiguous characters (il1Lo0O)? y/n: '):
         for i in chars:
