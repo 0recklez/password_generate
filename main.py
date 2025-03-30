@@ -8,11 +8,12 @@ PUNCTUATION = '!#$%&*+-=?@^_'
 chars = ''
 
 
-def check(length):
+def check():
     while True:
-        if length.:
-            return length
-        print('enter to num')
+        user_input = input("enter number: ")
+        if user_input.isdigit():
+            return int(user_input)
+        print("error: please enter a positive integer.")
 
 
 def numbers():
@@ -24,7 +25,7 @@ def numbers():
 
 
 def password_options():
-    check(input('enter password length'))
+    check()
     numbers()
 
 
